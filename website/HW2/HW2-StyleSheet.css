@@ -1,0 +1,41 @@
+#h01 {
+font-family:"Times New Roman";
+text-align: center;
+font-size: "16px";
+border-bottom: 6px solid green;
+
+}
+
+#p01 {font-family: "Times New Roman";
+font-style: italic;
+text-align: center;
+}
+
+#p02 {text-align: center;}
+
+#p06 {text-indent: 25px;
+}
+
+
+#p03 {font-family: "Times New Roman";
+text-decoration: underline;
+font-style: italic;
+font-weight: bold;
+font-size:"12px";
+
+}
+
+#p04 {font-family: "Times New Roman";
+text-decoration: underline;
+font-style: italic;
+font-weight: bold;
+font-size: "12px";
+}
+
+#p05 {
+font-family:"Times New Roman";
+Text-decoration: underline;
+font-style: italic;
+font-weight: bold;
+font-size: "12px";
+}
